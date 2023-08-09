@@ -1,0 +1,15 @@
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.csproj.AssemblyReference.cache
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.AssemblyInfoInputs.cache
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.AssemblyInfo.cs
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.csproj.CoreCompileInputs.cache
+C:\Users\lars_\VisualStudio\TestC#\bin\Debug\net6.0\TestC#.exe
+C:\Users\lars_\VisualStudio\TestC#\bin\Debug\net6.0\TestC#.deps.json
+C:\Users\lars_\VisualStudio\TestC#\bin\Debug\net6.0\TestC#.runtimeconfig.json
+C:\Users\lars_\VisualStudio\TestC#\bin\Debug\net6.0\TestC#.dll
+C:\Users\lars_\VisualStudio\TestC#\bin\Debug\net6.0\TestC#.pdb
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.dll
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\refint\TestC#.dll
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.pdb
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\TestC#.genruntimeconfig.cache
+C:\Users\lars_\VisualStudio\TestC#\obj\Debug\net6.0\ref\TestC#.dll
